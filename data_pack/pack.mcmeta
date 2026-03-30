@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "description": "A rebalancing data pack focused on Nether-only survival.\n1.0b1 for 26.1 by hibiscvs",
+    "min_format": 101,
+    "max_format": 101
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "minecraft",
+        "path": "recipe/golden_(axe|boots|chestplate|helmet|hoe|leggings|pickaxe|shovel|sword|spear)"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/iron_(axe|boots|chestplate|helmet|hoe|leggings|pickaxe|shovel|sword|spear)"
+      }
+    ]
+  }
+}

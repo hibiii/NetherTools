@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:gold_ingot"
+  },
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_leggings",
+    "components": {
+      "minecraft:max_damage": 165,
+      "minecraft:lore": [{
+        "translate": "item.modifiers.nether_tools.high_durability",
+        "color": "blue",
+        "italic": false
+      }]
+    }
+  }
+}

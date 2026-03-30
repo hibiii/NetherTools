@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "any_block_use",
+      "conditions": {
+        "location": [
+          {
+            "condition": "location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:respawn_anchor"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "nether_tools:respawn_anchor_activate"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "minecraft:blackstone"
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "minecraft:max_damage": 236,
+      "minecraft:item_name": {
+        "translate": "item.nether_tools.blackstone_shovel"
+      },
+      "minecraft:item_model": "nether_tools:blackstone_shovel"
+    }
+  }
+}

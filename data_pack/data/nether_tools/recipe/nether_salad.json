@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#nether_tools:nylium_roots",
+    "#nether_tools:nylium_roots",
+    "#nether_tools:nylium_roots",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "minecraft:beetroot_soup",
+    "components": {
+      "minecraft:food": {
+        "saturation": 0.8,
+        "nutrition": 2
+      },
+      "minecraft:item_name": {
+        "translate": "item.nether_tools.nether_salad"
+      },
+      "minecraft:item_model": "nether_tools:nether_salad"
+    }
+  }
+}

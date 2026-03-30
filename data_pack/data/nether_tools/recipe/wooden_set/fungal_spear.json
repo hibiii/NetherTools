@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "#nether_tools:nether_planks"
+  },
+  "pattern": [
+    "  X",
+    " # ",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_spear",
+    "components": {
+      "minecraft:max_damage": 107,
+      "minecraft:item_name": {
+        "translate": "item.nether_tools.fungal_spear"
+      },
+      "minecraft:item_model": "nether_tools:fungal_spear"
+    }
+  }
+}

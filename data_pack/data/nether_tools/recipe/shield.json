@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": "#minecraft:wooden_tool_materials",
+    "o": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "WoW",
+    "WWW",
+    " W "
+  ],
+  "result": {
+    "id": "minecraft:shield",
+    "components": {
+      "minecraft:max_damage": 672,
+      "minecraft:lore": [{
+        "translate": "item.modifiers.nether_tools.high_durability",
+        "color": "blue",
+        "italic": false
+      }]
+    }
+  }
+}

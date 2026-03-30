@@ -1,0 +1,20 @@
+{
+  "item.nether_tools.fungal_axe": "Fungal Axe",
+  "item.nether_tools.fungal_hoe": "Fungal Hoe",
+  "item.nether_tools.fungal_pickaxe": "Fungal Pickaxe",
+  "item.nether_tools.fungal_shovel": "Fungal Shovel",
+  "item.nether_tools.fungal_spear": "Fungal Spear",
+  "item.nether_tools.fungal_sword": "Fungal Sword",
+  "item.nether_tools.blackstone_axe": "Blackstone Axe",
+  "item.nether_tools.blackstone_hoe": "Blackstone Hoe",
+  "item.nether_tools.blackstone_pickaxe": "Blackstone Pickaxe",
+  "item.nether_tools.blackstone_shovel": "Blackstone Shovel",
+  "item.nether_tools.blackstone_spear": "Blackstone Spear",
+  "item.nether_tools.blackstone_sword": "Blackstone Sword",
+  "item.nether_tools.golden_trinket": "Golden Trinket",
+  "item.nether_tools.nether_salad": "Nether Salad",
+  "item.modifiers.nether_tools.high_durability": "High-durability",
+  "death.attack.nether_tools.out_of_nether": "%s could not handle being outside of The Nether",
+  "death.attack.nether_tools.out_of_nether.player": "%s was deathly scared of otherworldly things whilst trying to escape %s",
+  "death.attack.nether_tools.out_of_nether.item": "%s was made to touch grass by %s using %s"
+}

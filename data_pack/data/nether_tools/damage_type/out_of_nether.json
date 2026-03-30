@@ -1,0 +1,5 @@
+{
+  "exhaustion": 0.0,
+  "message_id": "nether_tools.out_of_nether",
+  "scaling": "when_caused_by_living_non_player"
+}

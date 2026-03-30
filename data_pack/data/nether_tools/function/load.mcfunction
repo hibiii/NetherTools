@@ -1,0 +1,1 @@
+scoreboard objectives add nether_tools.time_since_death minecraft.custom:minecraft.time_since_death
