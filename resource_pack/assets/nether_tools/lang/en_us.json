@@ -14,7 +14,7 @@
   "item.nether_tools.golden_trinket": "Golden Trinket",
   "item.nether_tools.nether_salad": "Nether Salad",
   "item.modifiers.nether_tools.high_durability": "High-durability",
-  "death.attack.nether_tools.out_of_nether": "%s could not handle being outside of The Nether",
-  "death.attack.nether_tools.out_of_nether.player": "%s was deathly scared of otherworldly things whilst trying to escape %s",
+  "death.attack.nether_tools.out_of_nether": "%s went out for some fresh air",
+  "death.attack.nether_tools.out_of_nether.player": "%s died of touching grass whilst trying to escape %s",
   "death.attack.nether_tools.out_of_nether.item": "%s was made to touch grass by %s using %s"
 }
