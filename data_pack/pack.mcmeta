@@ -13,6 +13,10 @@
       {
         "namespace": "minecraft",
         "path": "recipe/iron_(axe|boots|chestplate|helmet|hoe|leggings|pickaxe|shovel|sword|spear)"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/shears"
       }
     ]
   }
