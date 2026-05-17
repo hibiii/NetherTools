@@ -1,6 +1,10 @@
-# Nether Tools
+This is a data pack and resource pack combo for Minecraft 26.1 that helps players and enforces Nether-only challenge runs and minorly rebalances the game to be better suited for it.
 
-This is a data pack and resource pack combo for Minecraft 26.1 that helps players in Nether-only challenge runs and minorly rebalances the game to be better suited for it.
+# Installation and Usage
+
+During world creation, you can simply drag and drop the data pack file into the data pack screen. If you have an existing Nether-only world, you can simply enable the data pack if you have it installed for the world, and your gameplay should not be negatively impacted.
+
+In order to properly view custom items and texts added by this data pack, you need to download and install the included resource pack, which is as easy as installing any other resource packs. This should not cause conflicts.
 
 ## Changes and Additions
 
