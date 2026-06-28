@@ -1,8 +1,8 @@
 {
   "pack": {
-    "description": "A rebalancing data pack focused on Nether-only survival.\n1.0 for 26.1 by hibiscvs",
-    "min_format": 101,
-    "max_format": 101
+    "description": "A rebalancing data pack focused on Nether-only survival.\n1.1 for 26.2 by hibiscvs",
+    "min_format": 107.1,
+    "max_format": 107.1
   },
   "filter": {
     "block": [
@@ -16,7 +16,7 @@
       },
       {
         "namespace": "minecraft",
-        "path": "recipe/shears"
+        "path": "recipe/(shears|shield)"
       }
     ]
   }

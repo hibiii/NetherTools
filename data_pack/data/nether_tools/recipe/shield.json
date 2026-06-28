@@ -11,14 +11,6 @@
     " W "
   ],
   "result": {
-    "id": "minecraft:shield",
-    "components": {
-      "minecraft:max_damage": 672,
-      "minecraft:lore": [{
-        "translate": "item.modifiers.nether_tools.high_durability",
-        "color": "blue",
-        "italic": false
-      }]
-    }
+    "id": "minecraft:shield"
   }
 }

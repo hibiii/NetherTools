@@ -1,4 +1,4 @@
-This is a data pack and resource pack combo for Minecraft 26.1 that helps players and enforces Nether-only challenge runs and minorly rebalances the game to be better suited for it.
+This is a data pack and resource pack combo for Minecraft that helps players and enforces Nether-only challenge runs and minorly rebalances the game to be better suited for it.
 
 # Installation and Usage
 
